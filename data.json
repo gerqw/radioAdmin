@@ -1,0 +1,174 @@
+[
+  {
+    "estacion": "LOCAL",
+    "gps": [-40.106422, -64.453576],
+    "ping": true,
+    "equipos": [
+      {
+        "nombre": "AP Local - Barrio 224",
+        "ip": "192.168.5.72",
+        "ping": true
+      },
+      {
+        "nombre": "PTP AP Centro a Barrio 224",
+        "ip": "192.168.6.51",
+        "ping": false
+      },
+      {
+        "nombre": "ST Local - Barrio 224",
+        "ip": "192.168.5.73",
+        "ping": false
+      }
+    ]
+  },
+  {
+    "estacion": "SALINAS",
+    "gps": [-40.446065, -65.190028],
+    "ping": true,
+    "equipos": [
+      {
+        "nombre": "AP Omni Salina  (Servicio empresas)",
+        "ip": "192.168.6.180",
+        "ping": true
+      },
+      {
+        "nombre": "MKT Nodo Salina",
+        "ip": "192.168.6.158",
+        "ping": true
+      },
+      {
+        "nombre": "PTP ST Salinas-Acosta",
+        "ip": "192.168.6.154",
+        "ping": true
+      }
+    ]
+  },
+  {
+    "estacion": "FRIAS",
+    "gps": [-40.2973, -64.3057],
+    "ping": true,
+    "equipos": [
+      {
+        "nombre": "Frias Escuela AP Omni",
+        "ip": "192.168.6.150",
+        "ping": false
+      },
+      {
+        "nombre": "MKT FRIAS-Aramburu VOLTAJE",
+        "ip": "192.168.5.145",
+        "ping": false
+      },
+      {
+        "nombre": "Netonix Frias Escuela N8",
+        "ip": "192.168.5.197",
+        "ping": false
+      },
+      {
+        "nombre": "PTP AP  Frias a Colombo",
+        "ip": "192.168.6.40",
+        "ping": false
+      },
+      {
+        "nombre": "PTP AP Frias-Escuela",
+        "ip": "192.168.6.79",
+        "ping": false
+      },
+      {
+        "nombre": "PTP AP Frias-Guardia",
+        "ip": "192.168.6.12",
+        "ping": false
+      },
+      {
+        "nombre": "PTP ST Frias-La Luisa",
+        "ip": "192.168.6.11",
+        "ping": false
+      },
+      {
+        "nombre": "SW Frias 2",
+        "ip": "192.168.6.157",
+        "ping": false
+      },
+      {
+        "nombre": "SW POE Escuela 8 Frias",
+        "ip": "192.168.6.151",
+        "ping": false
+      }
+    ]
+  },
+  {
+    "estacion": "BARRIO 224",
+    "gps": [-40.14889, -64.352085],
+    "ping": true,
+    "equipos": [
+      {
+        "nombre": "AP PTP 224 - La Luisa",
+        "ip": "192.168.5.75",
+        "ping": true
+      },
+      {
+        "nombre": "PTP ST Barrio 224 a Centro",
+        "ip": "192.168.6.53",
+        "ping": true
+      },
+      {
+        "nombre": "SW Nodo Barrio 224",
+        "ip": "192.168.6.77",
+        "ping": true
+      }
+    ]
+  },
+  {
+    "estacion": "ALBIZUA",
+    "gps": [-39.665122, -63.965432],
+    "ping": true,
+    "equipos": [
+      {
+        "nombre": "MKT Nodo Albizua",
+        "ip": "192.168.6.230",
+        "ping": true
+      },
+      {
+        "nombre": "Omni Albizua Abel",
+        "ip": "192.168.6.85",
+        "ping": true
+      },
+      {
+        "nombre": "PTP AP Albizua-Plaza",
+        "ip": "192.168.6.203",
+        "ping": true
+      },
+      {
+        "nombre": "PTP ST Albizua Abel",
+        "ip": "192.168.5.32",
+        "ping": true
+      },
+      {
+        "nombre": "ST PTP Albizua-Nikolajiuk",
+        "ip": "192.168.6.39",
+        "ping": true
+      }
+    ]
+  },
+  {
+    "estacion": "PLAZA",
+    "gps": [-39.4395, -63.7603],
+    "ping": true,
+    "equipos": [
+      {
+        "nombre": "MKT Nodo Plaza",
+        "ip": "192.168.6.61",
+        "ping": true
+      },
+      {
+        "nombre": "OMNI CAMPO PLAZA",
+        "ip": "192.168.6.69",
+        "ping": true
+      },
+      {
+        "nombre": "PTP PLAZA >> ALBIZUA (ST)",
+        "ip": "192.168.6.68",
+        "ping": true
+      }
+    ]
+  }
+]
