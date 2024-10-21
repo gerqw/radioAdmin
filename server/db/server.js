@@ -12,7 +12,7 @@ app.use(cors({
 
 const PORT = 3000;
 
-const db = new sqlite3.Database('./server/db/torres.db');
+const db = new sqlite3.Database('../../torres.db');
 
 app.use(express.static('public'));
 

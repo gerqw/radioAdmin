@@ -1,6 +1,6 @@
 const sqlite3 = require('sqlite3').verbose();
 const fs = require('fs');
-const dbPath = './server/db/torres.db';
+const dbPath = '../../torres.db';
 
 if (fs.existsSync(dbPath)) {
     fs.unlinkSync(dbPath);
