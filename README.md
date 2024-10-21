@@ -5,7 +5,7 @@ Este proyecto está desarrollado en Node.js. El front-end utiliza la librería M
 - Tener Node.js instalado, preferentemente la última versión: [Descargar Node.js](https://nodejs.org/en/download/package-manager).
 
 ## Configuraciones
-Después de descargar el repositorio, hay que configurar los datos. Se encuentran en el archivo `data.json` (en la raíz del proyecto). Aquí se configuran las estaciones y los equipos que tiene cada una. El JSON es:
+Después de descargar el repositorio, hay que configurar los datos. Se encuentran en el archivo `data.json` (en la raíz del proyecto). Se configuran las estaciones y los equipos que tiene cada una. El JSON es:
 
 ```json
 {
@@ -58,4 +58,4 @@ Abrimos un CMD y ejecutamos:
 
 `node start.js`
 
-(es necesario tener a node como varialbe de entorno)
+(es necesario tener a node como variable de entorno)
